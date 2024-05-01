@@ -45,9 +45,9 @@ body {
 }
 
 .movingCell {
-  background-color: rgb(131, 26, 184);
+  background-color: yellow;
 }
 
 .fixedCell {
-  background-color: rgb(27, 48, 181);
+  background-color: orange;
 }
